@@ -17,4 +17,4 @@ I love turning ideas into meaningful software solutions. With a background that 
 ## 🤝 Let’s Connect
 I'm eager to grow as a developer, contribute to impactful projects, and connect with others passionate about tech and innovation.  
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/seniramendis)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/senira-mendis?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlyFyiz0cRhyA5bz8k%2B9Law%3D%3D)  
