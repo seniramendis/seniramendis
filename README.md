@@ -7,7 +7,7 @@ I love turning ideas into meaningful software solutions. With a background that 
 
 ## 🚀 What I’ve Worked On
 - 🧩 Developed an **educational Java game** with a team to make learning interactive and fun  
-- 💚 Served as **Vice Treasurer** for a charity fundraiser, enhancing leadership, organization, and collaboration skills  
+
 
 ## 🌱 Currently Exploring
 - Full-stack development (Java, JavaScript, Python)  
