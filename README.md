@@ -18,12 +18,15 @@ Open to **Software Developer, Web Developer, Android Developer, and Backend Deve
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seniramendis&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seniramendis&" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&locale=en" alt="seniramendis stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seniramendis&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seniramendis" alt="GitHub streak" />
+</p>
 
 ## 🛠️ Tech Stack & Skills
 
