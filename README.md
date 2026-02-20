@@ -1,42 +1,72 @@
-# 👋 Hi, I'm Senira Mendis  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=seniramendis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-🎓 **Undergraduate in Software Engineering** at *Cardiff Metropolitan University*  
-💻 Passionate about **technology, problem-solving, and innovation**  
+# Hi there, I'm Senira Mendis 👋
 
-I love turning ideas into meaningful software solutions. With a background that blends **IT, marketing, and project management**, I bring a well-rounded perspective to coding, teamwork, and leadership.  
+**Undergraduate Software & Data Engineer | Full-Stack & Mobile Developer**
 
-## 🚀 What I’ve Worked On
-- 🧩 Developed an **educational Java game** with a team to make learning interactive and fun  
+I am an Undergraduate Software Engineering student at Cardiff Metropolitan University (HND in Computer Software Engineering), based in Colombo, Sri Lanka. I am driven by a passion for problem-solving, innovation, and continuous learning. My background is built on a strong technical foundation in Full-Stack Web and Mobile Development, Object-Oriented Programming (OOP), and Agile methodologies, balanced with hands-on experience in project management, system architecture, and leadership.
 
+Open to **Software Developer, Web Developer, Android Developer, and Backend Developer** roles.
 
-## 🌱 Currently Exploring
-- Full-stack development (Java, JavaScript, Python)  
-- Open-source projects and collaborative coding  
-- Software design patterns and real-world applications
-- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+* 🎓 Currently studying Computer Software Engineering at **Cardiff Metropolitan University / ICBT Campus**.
+* 💻 Passionate about architecting secure applications, complex database structures, and dynamic mobile experiences.
+* 🤝 Experienced in blending technology with business strategy, acting as Scrum Master and Product Owner in Agile environments.
+* 🌍 Actively seeking opportunities for networking, growth, and building real-world solutions. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seniramendis&label=Profile%20views&color=0e75b6&style=flat" alt="seniramendis" /> </p>
+## 📊 GitHub Analytics
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniramendis" alt="seniramendis" /></a> </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniramendis&layout=compact&theme=radium"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/senira-mendis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/senira-mendis" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/31090112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/31090112" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack & Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seniramendis&show_icons=true&locale=en&layout=compact" alt="seniramendis" /></p>
+**Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&locale=en" alt="seniramendis" /></p>
+**Frameworks & Libraries:** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seniramendis&" alt="seniramendis" /></p>
+**Databases & Backend:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+**Tools & DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+## 💻 Featured Projects
 
+### 🚜 AgriLease - Agricultural Machinery Sharing Platform
+* **Role:** Backend Developer & Scrum Master
+* **Tech Stack:** Laravel 10.x, PostgreSQL 15, PostGIS, Supabase Auth, Docker
+* **About:** A "sharing economy" platform digitizing the local "Custom Hiring" system for Sri Lankan farmers. Designed a geospatial database (SLD92) for radius-based machinery searching and built a high-concurrency booking engine with Pessimistic Locking to eliminate double-booking overlaps. Orchestrated a 4-sprint Agile workflow for a 5-person team.
 
-## 🤝 Let’s Connect
-I'm eager to grow as a developer, contribute to impactful projects, and connect with others passionate about tech and innovation.  
+### 📱 TechCare - Mobile Application (Android)
+* **Tech Stack:** Java, XML, Android Studio, SQLite
+* **About:** A comprehensive native Android app streamlining electronic device repairs. Features a custom-built "Live Repair Tracker" utilizing background handlers for real-time updates, secure local authentication via SQLite, and a responsive UI optimized with ViewPager2 and Material Design.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/senira-mendis?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlyFyiz0cRhyA5bz8k%2B9Law%3D%3D)  
+### 🧠 BrainPath – Educational Roadmap Mobile App
+* **Role:** Product Owner
+* **Tech Stack:** React Native, Google Firebase, Jira
+* **About:** A cross-platform app designed to digitize the Sri Lankan national curriculum into an interactive node-based roadmap. Facilitated sprint planning for critical features like Google One-Tap Sign-In and interactive roadmap logic, translating academic requirements into technical user stories.
+
+### 🏥 Medicare Plus - Web Application
+* **Tech Stack:** PHP, MySQL, JavaScript (AJAX), HTML5/CSS3
+* **About:** Architected a secure full-stack platform to digitize hospital operations. Implemented custom PHP session handling, Role-Based Access Control (RBAC), an asynchronous real-time encrypted chat messenger, and a 24/7 smart scheduling system with an automated financial tracking suite.
+
+### 📚 Little Haven Bookstore Management System
+* **Tech Stack:** Java, OOP
+* **About:** Built a management system digitizing bookstore workflows, including inventory tracking, sales processing, and customer record management. Handled complex CRUD operations and data modeling.
+
+### 🧙‍♂️ The Wizard's Code - Java Game
+* **Tech Stack:** Java, 2D Game Development
+* **About:** Collaborated in a 5-member team to develop "Java Tails," an educational interactive 2D game blending creativity with programming concepts. Showcased at the ICBT Exito Exhibition.
+
+## 🤝 Leadership & Volunteering
+
+* **Vice Treasurer – Charity Donation Project (Cancer Hospital, Maharagama):** Organized fundraising efforts, supervised a budget of over Rs. 146,000, and managed resource allocation for essential medical supplies (injections, scalp vein sets).
+* **Vice Treasurer – ICBT Movie Screening:** Managed ticket sales, funds, logistics, promotions, and event coordination.
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** [Senira Mendis](https://www.linkedin.com/in/seniramendis/)
+* **Location:** Colombo, Western Province, Sri Lanka
