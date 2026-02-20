@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=seniramendis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
@@ -19,8 +19,10 @@ Open to **Software Developer, Web Developer, Android Developer, and Backend Deve
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniramendis&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seniramendis&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seniramendis&" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Tech Stack & Skills
