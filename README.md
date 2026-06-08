@@ -6,12 +6,12 @@
 
 **Undergraduate Software & Data Engineer | Full-Stack & Mobile Developer**
 
-I am an Undergraduate Software Engineering student at Cardiff Metropolitan University (HND in Computer Software Engineering), based in Colombo, Sri Lanka. I am driven by a passion for problem-solving, innovation, and continuous learning. My background is built on a strong technical foundation in Full-Stack Web and Mobile Development, Object-Oriented Programming (OOP), and Agile methodologies, balanced with hands-on experience in project management, system architecture, and leadership.
+I am an Undergraduate Software Engineering student at Cardiff Metropolitan University. I am driven by a passion for problem-solving, innovation, and continuous learning. My background is built on a strong technical foundation in Full-Stack Web and Mobile Development, Object-Oriented Programming (OOP), and Agile methodologies, balanced with hands-on experience in project management, system architecture, and leadership.
 
 Open to **Software Developer, Web Developer, Android Developer, and Backend Developer** roles.
 
 ## 🚀 About Me
-* 🎓 Currently studying Computer Software Engineering at **Cardiff Metropolitan University / ICBT Campus**.
+* 🎓 Currently studying Computer Software Engineering at **Cardiff Metropolitan University**.
 * 💻 Passionate about architecting secure applications, complex database structures, and dynamic mobile experiences.
 * 🤝 Experienced in blending technology with business strategy, acting as Scrum Master and Product Owner in Agile environments.
 * 🌍 Actively seeking opportunities for networking, growth, and building real-world solutions. 
