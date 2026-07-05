@@ -1,42 +1,45 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=seniramendis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=seniramendis&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
 
 # Hi there, I'm Senira Mendis 👋
 
-**Undergraduate Software & Data Engineer | Full-Stack & Mobile Developer**
+**Software Engineer | Full-Stack & Mobile Developer**
 
-I am an Undergraduate Software Engineering student at Cardiff Metropolitan University. I am driven by a passion for problem-solving, innovation, and continuous learning. My background is built on a strong technical foundation in Full-Stack Web and Mobile Development, Object-Oriented Programming (OOP), and Agile methodologies, balanced with hands-on experience in project management, system architecture, and leadership.
+I am a highly driven Software Engineer with a passion for problem-solving, innovation, and building scalable digital solutions. With a robust technical foundation in Full-Stack Web and Mobile Development, Object-Oriented Programming (OOP), and Agile methodologies, I specialize in bringing complex architectures to life. My experience spans hands-on development, project management, system architecture, and leading teams to deliver impactful products.
 
 Open to **Software Developer, Web Developer, Android Developer, and Backend Developer** roles.
 
 ## 🚀 About Me
-* 🎓 Currently studying Computer Software Engineering at **Cardiff Metropolitan University**.
-* 💻 Passionate about architecting secure applications, complex database structures, and dynamic mobile experiences.
+
+* 💼 Founder of **Dopmin**, providing specialized IT solutions, as well as modern web and mobile app development services.
+* 💻 Passionate about architecting secure applications, complex database structures, and delivering dynamic, minimalistic, and professional user experiences.
 * 🤝 Experienced in blending technology with business strategy, acting as Scrum Master and Product Owner in Agile environments.
 * 🌍 Actively seeking opportunities for networking, growth, and building real-world solutions. 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&locale=en" alt="seniramendis stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seniramendis&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seniramendis" alt="GitHub streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seniramendis&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="seniramendis stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seniramendis&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="top languages" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seniramendis&theme=transparent&hide_border=true&title_color=0e75b6" alt="GitHub streak" />
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Languages:** 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries:** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+**Frameworks & Libraries:** 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-**Databases & Backend:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Databases & Backend:** 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Tools & Management:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+**Tools & Management:** 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
 **Core Concepts:**
 ![Agile](https://img.shields.io/badge/Agile_Methodologies-0052CC?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum_Master-20232a?style=for-the-badge) ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-323330?style=for-the-badge) ![REST](https://img.shields.io/badge/RESTful_APIs-FF4500?style=for-the-badge)
@@ -46,7 +49,7 @@ Open to **Software Developer, Web Developer, Android Developer, and Backend Deve
 ### 🚜 AgriLease - Agricultural Machinery Sharing Platform
 * **Role:** Backend Developer & Scrum Master
 * **Tech Stack:** Laravel 10.x, PostgreSQL 15, PostGIS, Supabase Auth, Docker
-* **About:** A "sharing economy" platform digitizing the local "Custom Hiring" system for Sri Lankan farmers. Designed a geospatial database (SLD92) for radius-based machinery searching and built a high-concurrency booking engine with Pessimistic Locking to eliminate double-booking overlaps. Orchestrated a 4-sprint Agile workflow for a 5-person team.
+* **About:** A sharing economy platform digitizing the local "Custom Hiring" system for farmers. Designed a geospatial database (SLD92) for radius-based machinery searching and built a high-concurrency booking engine with Pessimistic Locking to eliminate double-booking overlaps. Orchestrated a 4-sprint Agile workflow for a 5-person team.
 
 ### 📱 TechCare - Mobile Application (Android)
 * **Tech Stack:** Java, XML, Android Studio, SQLite
@@ -55,7 +58,7 @@ Open to **Software Developer, Web Developer, Android Developer, and Backend Deve
 ### 🧠 BrainPath – Educational Roadmap Mobile App
 * **Role:** Product Owner
 * **Tech Stack:** React Native, Google Firebase, Jira
-* **About:** A cross-platform app designed to digitize the Sri Lankan national curriculum into an interactive node-based roadmap. Facilitated sprint planning for critical features like Google One-Tap Sign-In and interactive roadmap logic, translating academic requirements into technical user stories.
+* **About:** A cross-platform application designed to digitize local educational curriculums into an interactive node-based roadmap. Facilitated sprint planning for critical features like Google One-Tap Sign-In and interactive roadmap logic, translating core requirements into technical user stories.
 
 ### 🏥 Medicare Plus - Web Application
 * **Tech Stack:** PHP, MySQL, JavaScript (AJAX), HTML5/CSS3
@@ -63,16 +66,15 @@ Open to **Software Developer, Web Developer, Android Developer, and Backend Deve
 
 ### 📚 Little Haven Bookstore Management System
 * **Tech Stack:** Java, OOP
-* **About:** Built a management system digitizing bookstore workflows, including inventory tracking, sales processing, and customer record management. Handled complex CRUD operations and data modeling.
+* **About:** Built a management system digitizing bookstore workflows, including inventory tracking, sales processing, and customer record management. Handled complex CRUD operations and data modeling to ensure streamlined daily operations.
 
 ### 🧙‍♂️ The Wizard's Code - Java Game
 * **Tech Stack:** Java, 2D Game Development
-* **About:** Collaborated in a 5-member team to develop "Java Tails," an educational interactive 2D game blending creativity with programming concepts. Showcased at the ICBT Exito Exhibition.
+* **About:** Collaborated in a 5-member team to develop "Java Tails," an educational interactive 2D game blending creativity with programming concepts. 
 
 ## 🤝 Leadership & Volunteering
 
 * **Vice Treasurer – Charity Donation Project (Cancer Hospital, Maharagama):** Organized fundraising efforts, supervised a budget of over Rs. 146,000, and managed resource allocation for essential medical supplies (injections, scalp vein sets).
-* **Vice Treasurer – ICBT Movie Screening:** Managed ticket sales, funds, logistics, promotions, and event coordination.
 
 ## 📫 Let's Connect!
 
